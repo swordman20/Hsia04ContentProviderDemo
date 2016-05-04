@@ -1,0 +1,1 @@
+include ':app', ':contentprovider02还原短信', ':ContentProvider03读取联系人信息', ':ContentProvider04插入联系人', ':05内容观察者模式'

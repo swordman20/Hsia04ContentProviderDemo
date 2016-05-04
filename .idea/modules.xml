@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05内容观察者模式/05内容观察者模式.iml" filepath="$PROJECT_DIR$/05内容观察者模式/05内容观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProvider03读取联系人信息/ContentProvider03读取联系人信息.iml" filepath="$PROJECT_DIR$/ContentProvider03读取联系人信息/ContentProvider03读取联系人信息.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentProvider04插入联系人/ContentProvider04插入联系人.iml" filepath="$PROJECT_DIR$/ContentProvider04插入联系人/ContentProvider04插入联系人.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hsia04ContentProviderDemo.iml" filepath="$PROJECT_DIR$/Hsia04ContentProviderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider02还原短信/contentprovider02还原短信.iml" filepath="$PROJECT_DIR$/contentprovider02还原短信/contentprovider02还原短信.iml" />
+    </modules>
+  </component>
+</project>
